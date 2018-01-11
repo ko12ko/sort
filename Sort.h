@@ -2,32 +2,32 @@
 #define SORTING_H
 
 /*
- * ²åÈëÅÅĞò
+ * æ’å…¥æ’åº
  */
 void insertingSort(int *data, int size);
 
 /*
-* Ñ¡ÔñÅÅĞò
+* é€‰æ‹©æ’åº
 */
 void selectionSort(int *data, int size);
 
 /*
- * Ã°ÅİÅÅĞò
+ * å†’æ³¡æ’åº
  */
 void bubbleSort(int *data, int size);
 
 /*
- * ¹é²¢ÅÅĞò
+ * å½’å¹¶æ’åº
  */
 void mergeSort(int *data, int size);
 
 /*
- * ¶ÑÅÅĞò
+ * å †æ’åº
  */
 void heapSort(int *data, int size);
 
 /*
- * ¿ìËÙÅÅĞò
+ * å¿«é€Ÿæ’åº
  */
 void quickSort(int *data, int size);
 
